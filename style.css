@@ -102,6 +102,10 @@
   text-decoration: none;
 }
 
+.list__item p {
+  margin: 0;
+}
+
 .list__link:hover {
   color: Tan;
 }
